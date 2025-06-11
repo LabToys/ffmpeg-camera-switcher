@@ -7,7 +7,8 @@ This project allows you to switch between multiple camera inputs on a Raspberry 
 
 Technologies Used
 
-<div align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Raspberry_Pi_Logo.svg" width="100" alt="Raspberry Pi"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Ffmpeg_icon.svg" width="100" alt="FFmpeg"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Git_logo.svg" width="100" alt="Git"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/WiringPi-Logo.png" width="100" alt="WiringPi"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/V4L2_Logo.png" width="100" alt="V4L2"> </div>
+<div align="center"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-RPi-Logo.png" width="100" alt="Raspberry Pi"> <img src="https://ffmpeg.org/ffmpeg-logo.svg" width="100" alt="FFmpeg"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git"> <img src="https://i0.wp.com/www.wiringpi.com/wp-content/uploads/2013/03/WiringPi-Logo-300.png" width="100" alt="WiringPi"> <img src="https://linuxtv.org/images/v4l2.png" width="100" alt="V4L2"> </div>
+
 Installation
 
 Run the following command to install all dependencies and set up the camera switcher:
