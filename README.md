@@ -1,3 +1,5 @@
+<img=https://raw.githubusercontent.com/LabToys/ffmpeg-camera-switcher/refs/heads/main/ToyLabs_logo.png>
+
 WORK IN PROCCESS ----- FFmpeg Camera Switcher - README
 
 
