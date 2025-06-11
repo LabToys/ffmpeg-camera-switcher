@@ -1,6 +1,6 @@
-<div align="center"><img src="https://raw.githubusercontent.com/LabToys/ffmpeg-camera-switcher/refs/heads/main/ToyLabs_logo.png" width="50%" alt="ToyLabs Logo"></div>
-
-WORK IN PROCCESS ----- FFmpeg Camera Switcher - README
+<div align="center"><img src="https://raw.githubusercontent.com/LabToys/ffmpeg-camera-switcher/refs/heads/main/ToyLabs_logo.png" width="50%" alt="ToyLabs Logo">
+  
+WORK IN PROCCESS ----- FFmpeg Camera Switcher - README</div>
 
 
 A Raspberry Pi-based camera switcher using FFmpeg and GPIO controls
