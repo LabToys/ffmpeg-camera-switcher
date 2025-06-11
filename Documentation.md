@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/LabToys/ffmpeg-camera-switcher/refs/heads/main/ToyLabs_logo.png" width="50%" alt="ToyLabs Logo">
+<div align="center"><img src="https://raw.githubusercontent.com/LabToys/ffmpeg-camera-switcher/refs/heads/main/LabToys_logo.png" width="50%" alt="ToyLabs Logo">
   
 WORK IN PROCCESS ----- FFmpeg Camera Switcher - Documentation</div>
 
