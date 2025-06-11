@@ -7,7 +7,8 @@ This project allows you to switch between multiple camera inputs on a Raspberry 
 
 Technologies Used
 
-<div align="center"> <img src="https://raw.githubusercontent.com/raspberrypi/logo/master/raspberry-pi-logo.png" width="100" alt="Raspberry Pi"> <img src="https://raw.githubusercontent.com/FFmpeg/FFmpeg/master/doc/ffmpeg-logo.svg" width="100" alt="FFmpeg"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git"> <img src="https://i.imgur.com/5ZQJZ0J.png" width="100" alt="WiringPi"> <img src="https://i.imgur.com/8JQZQJZ.png" width="100" alt="V4L2"> </div>
+<div align="center"> <!-- Raspberry Pi --> <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="120" alt="Raspberry Pi"> <!-- FFmpeg - Using GitHub raw content --> <img src="https://raw.githubusercontent.com/FFmpeg/FFmpeg/master/doc/ffmpeg-logo.svg" width="120" alt="FFmpeg" style="background-color:white;padding:10px;"> <!-- Git - Using git-scm.com --> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git"> <!-- WiringPi - Using GitHub-hosted image --> <img src="https://raw.githubusercontent.com/WiringPi/WiringPi/master/logo.png" width="100" alt="WiringPi"> <!-- V4L2 - Using placeholder with text fallback --> <img src="https://via.placeholder.com/100?text=V4L2" width="100" alt="V4L2"> </div>
+
 
 Installation
 
