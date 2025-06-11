@@ -7,7 +7,7 @@ This project allows you to switch between multiple camera inputs on a Raspberry 
 
 Technologies Used
 
-<div align="center"> <!-- Raspberry Pi --> <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="120" alt="Raspberry Pi"> <!-- FFmpeg - Using Wikimedia Commons --> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Ffmpeg_icon.svg" width="100" alt="FFmpeg" style="background-color:white;padding:5px;"> <!-- Git - Using git-scm.com --> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git"> <!-- WiringPi - Using Imgur mirror --> <img src="https://i.imgur.com/4GJQZ7M.png" width="100" alt="WiringPi"> <!-- V4L2 - Using LinuxTV logo --> <img src="https://linuxtv.org/images/v4l2.png" width="100" alt="V4L2"> </div>
+<div align="center"> <!-- Raspberry Pi --> <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="120" alt="Raspberry Pi">  <h3> <span style="color:#c51a4a">Raspberry Pi</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FFmpeg_Logo_new.svg/448px-FFmpeg_Logo_new.svg.png" height="40" alt="FFmpeg"> | <span style="color:#f14e32">Git</span> | WiringPi | V4L2 </h3> </div>
 
 
 
