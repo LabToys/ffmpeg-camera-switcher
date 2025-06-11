@@ -12,9 +12,8 @@ Installation
 
 Run the following command to install all dependencies and set up the camera switcher:
 
-
-
-sudo apt-get update && sudo apt-get install -y git ffmpeg alsa-utils libasound2-dev v4l-utils libv4l-dev raspberrypi-kernel-headers wiringpi && git clone https://github.com/toylabs/ffmpeg-camera-switcher.git && cd ffmpeg-camera-switcher && chmod +x install.sh camera_switcher.sh gpio_control.sh && sudo ./install.sh && sudo ./camera_switcher.sh
+bash
+sudo apt-get update && sudo apt-get install -y git ffmpeg alsa-utils libasound2-dev v4l-utils libv4l-dev raspberrypi-kernel-headers wiringpi && git clone https://github.com/LabToys/ffmpeg-camera-switcher.git && cd ffmpeg-camera-switcher && chmod +x install.sh camera_switcher.sh gpio_control.sh && sudo ./install.sh && sudo ./camera_switcher.sh
 Features
 
 Switch between multiple camera inputs seamlessly
@@ -27,9 +26,9 @@ Raspberry Pi (3/4 recommended)
 Raspberry Pi OS (latest)
 Compatible USB cameras or Pi Camera modules
 Basic GPIO components (buttons, LEDs, etc.)
-Usage
+Documentation
 
-After installation, the system will be ready to use. Configure your camera sources in the configuration file and use the GPIO controls to switch between them.
+For detailed setup instructions and configuration options, please visit the project documentation.
 
 Contributing
 
@@ -38,5 +37,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 License
 
 MIT
-
-*© 2023 ToyLabs - Innovative Raspberry Pi Projects*
